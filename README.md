@@ -4,7 +4,8 @@ demo of markdown
 >Meta Platforms, Inc., doing business as Meta and formerly known as Facebook, Inc., is an **American** multinational technology conglomerate based in Menlo Park, California. 
 The company is the parent organization of Facebook, ___Instagram, and WhatsApp,___ among other subsidiaries.
 
-Visit apple [here](www.apple.com)
+Visit apple [here](https://www.apple.com)
+An image of a fish ![blue fish](fish.com)
 
 >Area of a circle is pi time the`radius`squared and can be implemented in python function given below.
 ```
