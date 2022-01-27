@@ -5,7 +5,7 @@ demo of markdown
 The company is the parent organization of Facebook, ___Instagram, and WhatsApp,___ among other subsidiaries.
 
 Visit apple [here](https://www.apple.com)
-An image of a fish ![blue fish](fish.com)
+An image of a fish ![MyPic](C:\Users\S546832\Documents\WebApps\MyPic.jpeg)
 
 >Area of a circle is pi time the`radius`squared and can be implemented in python function given below.
 ```
